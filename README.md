@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/75bsmd7elmckgovj?svg=true)](https://ci.appveyor.com/project/boroda96/patternstask2)
+
 # Домашнее задание к занятию «2.3. Patterns»
 
 В качестве результата пришлите ссылку на ваш GitHub-проект в личном кабинете студента на сайте [netology.ru](https://netology.ru).
